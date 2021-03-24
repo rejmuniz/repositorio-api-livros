@@ -1,0 +1,67 @@
+{
+  "generos": [
+    {
+      "id": 1,
+      "nome": "romance"
+    },
+    {
+      "id": 2,
+      "nome": "poesia"
+    },
+    {
+      "id": 3,
+      "nome": "cronica"
+    }
+  ],
+  "livros": [
+    {
+      "nome": "Escrava Isaura Editada",
+      "autor": " Bernardo Guimarães da silva e santos",
+      "ano": "2050",
+      "generoId": 2,
+      "id": 1
+    },
+    {
+      "nome": "Vidas secas",
+      "autor": "Graciliano Ramos",
+      "ano": 1982,
+      "generoId": 3,
+      "id": 5
+    },
+    {
+      "nome": "Memórias Póstumas de Brás Cubas",
+      "autor": "Machado de Assis",
+      "ano": "1881",
+      "generoId": 1,
+      "id": 6
+    },
+    {
+      "nome": "Grande Sertão: Veredas ",
+      "autor": "Guimarães Rosa",
+      "ano": "1956",
+      "generoId": 1,
+      "id": 7
+    },
+    {
+      "nome": "Toda Poesia",
+      "autor": "Paulo Leminsk",
+      "ano": "1992",
+      "generoId": 2,
+      "id": 9
+    },
+    {
+      "nome": "O fio das miçangas",
+      "autor": "Mia Couto",
+      "ano": "2000",
+      "generoId": 2,
+      "id": 10
+    },
+    {
+      "nome": "Quarto de despejo",
+      "autor": "Carolina Maria de Jesus",
+      "ano": "2000",
+      "generoId": 3,
+      "id": 11
+    }
+  ]
+}
